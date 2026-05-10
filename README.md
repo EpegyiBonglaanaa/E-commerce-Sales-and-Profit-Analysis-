@@ -1,5 +1,4 @@
 # E-commerce-Sales-and-Profit-Analysis-
-The dataset consists of 3,500 e-commerce orders with 7 key features. It captures sales transactions across different products, categories, and regions, along with quantity, revenue, and profit details.
 
 # Table of Content
 •	[Project Overview](#project-overview)
@@ -35,38 +34,37 @@ The data is complete, contains no missing values, and reflects realistic busines
 [Download for Free Here at Kaggle.com](https://www.kaggle.com/datasets/nalisha/e-commerce-sales-and-profit-analysis-dataset/data)
 
 # Structure 
-|Column|Description|Non_null_count|Data type|
-|......|...........|..............|.........|
-Order Date	Date of ordering [Day/Monthly/Year]	3500	object
-Product Name	Product ordered ['Printer', 'Mouse', 'Tablet', 
-'Camera', 'Headphones', 'Smartwatch', 
-'Monitor', 'Smartphone', 'Keyboard', 'Laptop']	3500	object
-Category	Product category ['Office', 'Accessories', 'Electronics']	3500	object
-Region	Geographic location ['North', 'East', 'South', 'West']	3500	object
-Quantity	Number of products ordered	3500	int64
-Sales	Min: 51, Max: 10,782	3500	int64
-Profit	Min: 6.97, Max: 2,946.93	3500	float64
+| Column | Description | Non_null_count | Data type |
+|--------|-------------|----------------|-----------|
+| Order Date|	Date of ordering [Day/Monthly/Year]	|3500	|object|
+|Product Name	|Product ordered ['Printer', 'Mouse', 'Tablet', 'Camera', 'Headphones', 'Smartwatch', 'Monitor', 'Smartphone', 'Keyboard', 'Laptop']|	3500|	object|
+|Category|	Product category ['Office', 'Accessories', 'Electronics']|	3500|	object|
+|Region	|Geographic location ['North', 'East', 'South', 'West']|	3500|	object|
+|Quantity	|Number of products ordered	|3500	|int64|
+|Sales	|Min: 51, Max: 10,782	|3500	|int64|
+|Profit|	Min: 6.97, Max: 2,946.93|	3500|	float64|
 
-Tools
-•	Excel – Data Cleaning
-•	Python, DAX – Data Analysis
-•	Power BI – Creating report [Download for Free Here]( https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=2c328bbf2b3167101ab79c8d2ab46616)
+# Tools
+- Excel – Data Cleaning
+- Python, DAX – Data Analysis
+- Power BI – Creating report [Download for Free Here]( https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=2c328bbf2b3167101ab79c8d2ab46616)
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
-Sales Analysis and Profit Analysis
+# Sales Analysis and Profit Analysis
 Sale by Product name: 
 Sale by Product category: 
 Profit by Product name: 
 Profit by Product category: 
 Data Visualization
 
-Key Findings and Insights
-•	Cameras recorded the highest product sales overall, with the South region contributing the largest share of camera sales distribution. 
-•	The West region achieved the highest overall sales performance, recording 2,844,450 units sold. 
-•	Yearly analysis showed that 2023 recorded the highest overall sales and profit. Possible contributing factors may include inflation, shifts in consumer behavior, increased disposable income, or broader market dynamics. 
-•	Out of the total sales volume of 10.67 million units across the Electronics, Accessories, and Office categories, Electronics accounted for 49.93% of total sales, making it the leading product category.
-Recommendation
-•	Further investigation is recommended to determine the key factors driving this performance, as the available dataset provides limited variables for comprehensive causal analysis.
-•	The Electronics category demonstrates strong revenue-generation and profit potential, indicating that it should be prioritized within the company’s sales and growth strategy.
+# Key Findings and Insights
+- Cameras recorded the highest product sales overall, with the South region contributing the largest share of camera sales distribution.
+- The West region achieved the highest overall sales performance, recording 2,844,450 units sold.
+- Yearly analysis showed that 2023 recorded the highest overall sales and profit. Possible contributing factors may include inflation, shifts in consumer behavior, increased disposable income, or broader market dynamics.
+- Out of the total sales volume of 10.67 million units across the Electronics, Accessories, and Office categories, Electronics accounted for 49.93% of total sales, making it the leading product category.
+  
+# Recommendation
+- Further investigation is recommended to determine the key factors driving this performance, as the available dataset provides limited variables for comprehensive causal analysis.
+- The Electronics category demonstrates strong revenue-generation and profit potential, indicating that it should be prioritized within the company’s sales and growth strategy.
 
