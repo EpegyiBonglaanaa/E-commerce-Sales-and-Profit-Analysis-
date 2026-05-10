@@ -35,7 +35,8 @@ The data is complete, contains no missing values, and reflects realistic busines
 [Download for Free Here at Kaggle.com](https://www.kaggle.com/datasets/nalisha/e-commerce-sales-and-profit-analysis-dataset/data)
 
 # Structure 
-||Column||	Description ||	Non_null_count||	Data type||
+|Column|Description|Non_null_count|Data type|
+|......|...........|..............|.........|
 Order Date	Date of ordering [Day/Monthly/Year]	3500	object
 Product Name	Product ordered ['Printer', 'Mouse', 'Tablet', 
 'Camera', 'Headphones', 'Smartwatch', 
