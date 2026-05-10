@@ -1,4 +1,4 @@
-# E-commerce-Sales-and-Profit-Analysis-
+# E-commerce Sales and Profit Analysis
 
 # Table of Content
 •	[Project Overview](#project-overview)
