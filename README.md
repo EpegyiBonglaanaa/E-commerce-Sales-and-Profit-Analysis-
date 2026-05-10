@@ -64,8 +64,8 @@ Data Visualization
 
 # Dashboard Report
 Dasboard:
-<img width="857" height="447" alt="Screenshot 2026-05-09 174927" src="https://github.com/user-attachments/assets/d2193eb0-44f0-4180-ae99-507d9e32bc1c" /> 
-Detailed Summary Tables: <img width="857" height="447" alt="Screenshot 2026-05-09 175007" src="https://github.com/user-attachments/assets/d1e22cc8-d7e4-4a9e-9112-a44e10c7d850" />
+<img width="857" height="457" alt="Screenshot 2026-05-09 174927" src="https://github.com/user-attachments/assets/d2193eb0-44f0-4180-ae99-507d9e32bc1c" /> 
+Detailed Summary Tables: <img width="857" height="457" alt="Screenshot 2026-05-09 175007" src="https://github.com/user-attachments/assets/d1e22cc8-d7e4-4a9e-9112-a44e10c7d850" />
 
 
 # Key Findings and Insights
