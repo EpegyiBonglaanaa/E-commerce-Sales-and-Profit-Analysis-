@@ -15,9 +15,9 @@
 
 •	[Sales Analysis and Profit Analysis](#sales-analysis-and-profit-analysis)
 
-•	[Report](#report)
+•	[Dashboard Report](#dashboard-report)
 
-•	[Findings/Results](#findings--results)
+•	[Key Findings and Insights](#key-findings-and-insights)
 
 •	[Recommendations](#recommendations)
 
@@ -34,15 +34,15 @@ The data is complete, contains no missing values, and reflects realistic busines
 [Download for Free Here at Kaggle.com](https://www.kaggle.com/datasets/nalisha/e-commerce-sales-and-profit-analysis-dataset/data)
 
 # Structure 
-| Column | Description | Non_null_count | Data type |
-|--------|-------------|----------------|-----------|
-| Order Date|	Date of ordering [Day/Monthly/Year]	|3500	|object|
-|Product Name	|Product ordered ['Printer', 'Mouse', 'Tablet', 'Camera', 'Headphones', 'Smartwatch', 'Monitor', 'Smartphone', 'Keyboard', 'Laptop']|	3500|	object|
-|Category|	Product category ['Office', 'Accessories', 'Electronics']|	3500|	object|
-|Region	|Geographic location ['North', 'East', 'South', 'West']|	3500|	object|
-|Quantity	|Number of products ordered	|3500	|int64|
-|Sales	|Min: 51, Max: 10,782	|3500	|int64|
-|Profit|	Min: 6.97, Max: 2,946.93|	3500|	float64|
+|| Column | Description | Non_null_count | Data type |
+|-|--------|-------------|----------------|-----------|
+|1| Order Date|	Date of ordering [Day/Monthly/Year]	|3500	|object|
+|2|Product Name	|Product ordered ['Printer', 'Mouse', 'Tablet', 'Camera', 'Headphones', 'Smartwatch', 'Monitor', 'Smartphone', 'Keyboard', 'Laptop']|	3500|	object|
+|3|Category|	Product category ['Office', 'Accessories', 'Electronics']|	3500|	object|
+|4|Region	|Geographic location ['North', 'East', 'South', 'West']|	3500|	object|
+|5|Quantity	|Number of products ordered	|3500	|int64|
+|6|Sales	|Min: 51, Max: 10,782	|3500	|int64|
+|7|Profit|	Min: 6.97, Max: 2,946.93|	3500|	float64|
 
 # Tools
 - Excel – Data Cleaning
@@ -57,6 +57,8 @@ Sale by Product category:
 Profit by Product name: 
 Profit by Product category: 
 Data Visualization
+
+# Dashboard Report
 
 # Key Findings and Insights
 - Cameras recorded the highest product sales overall, with the South region contributing the largest share of camera sales distribution.
