@@ -51,10 +51,11 @@ The data is complete, contains no missing values, and reflects realistic busines
 
 # Exploratory Data Analysis (EDA)
 Ed = "e-commerce-sales-and-profit-analysis-dataset"
-```
-python
+```Python
 ED.describe(include='all')
 ```
+<img width="837" height="415" alt="36" src="https://github.com/user-attachments/assets/20240818-4e9e-4222-b981-374079dc15b9" />
+
 # Sales Analysis and Profit Analysis
 Sale by Product name: 
 Sale by Product category: 
