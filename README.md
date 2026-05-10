@@ -3,18 +3,30 @@ The dataset consists of 3,500 e-commerce orders with 7 key features. It captures
 
 # Table of Content
 •	[Project Overview](#project-overview)
+
 •	[Dataset Description](#dataset-description)
+
 •	[Data Sources](#data-sources)
+
 •	[Structure](#structure)
+
 •	[Tools](#tools)
+
 •	[Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+
 •	[Sales Analysis and Profit Analysis](#sales-analysis-and-profit-analysis)
+
 •	[Report](#report)
+
 •	[Findings/Results](#findings--results)
+
 •	[Recommendations](#recommendations)
-Project Overview
+
+# Project Overview
+
 This data analysis aims to provide insights into the sales performance transactions across different products, categories, and regions, along with quantity, revenue, and profit details.
- Dataset Description
+
+# Dataset Description
 The dataset consists of 3,500 e-commerce orders with 7 key features. It captures sales transactions across different products, categories, and regions, along with quantity, revenue, and profit details.
 The data is complete, contains no missing values, and reflects realistic business patterns suitable for analytical and predictive tasks.
 Data Sources
