@@ -50,7 +50,11 @@ The data is complete, contains no missing values, and reflects realistic busines
 - Power BI – Creating report [Download for Free Here]( https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=2c328bbf2b3167101ab79c8d2ab46616)
 
 # Exploratory Data Analysis (EDA)
-
+Ed = "e-commerce-sales-and-profit-analysis-dataset"
+```
+python
+ED.describe(include='all')
+```
 # Sales Analysis and Profit Analysis
 Sale by Product name: 
 Sale by Product category: 
@@ -59,6 +63,10 @@ Profit by Product category:
 Data Visualization
 
 # Dashboard Report
+Dasboard:
+<img width="857" height="447" alt="Screenshot 2026-05-09 174927" src="https://github.com/user-attachments/assets/d2193eb0-44f0-4180-ae99-507d9e32bc1c" /> 
+Detailed Summary Tables: <img width="857" height="447" alt="Screenshot 2026-05-09 175007" src="https://github.com/user-attachments/assets/d1e22cc8-d7e4-4a9e-9112-a44e10c7d850" />
+
 
 # Key Findings and Insights
 - Cameras recorded the highest product sales overall, with the South region contributing the largest share of camera sales distribution.
