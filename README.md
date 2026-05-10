@@ -28,11 +28,14 @@ This data analysis aims to provide insights into the sales performance transacti
 
 # Dataset Description
 The dataset consists of 3,500 e-commerce orders with 7 key features. It captures sales transactions across different products, categories, and regions, along with quantity, revenue, and profit details.
+
 The data is complete, contains no missing values, and reflects realistic business patterns suitable for analytical and predictive tasks.
-Data Sources
+
+# Data Sources
 [Download for Free Here at Kaggle.com](https://www.kaggle.com/datasets/nalisha/e-commerce-sales-and-profit-analysis-dataset/data)
-Structure 
-Column	Description	Non_null_count	Data type
+
+# Structure 
+||Column||	Description ||	Non_null_count||	Data type||
 Order Date	Date of ordering [Day/Monthly/Year]	3500	object
 Product Name	Product ordered ['Printer', 'Mouse', 'Tablet', 
 'Camera', 'Headphones', 'Smartwatch', 
