@@ -64,7 +64,7 @@ Data Visualization
 - Yearly analysis showed that 2023 recorded the highest overall sales and profit. Possible contributing factors may include inflation, shifts in consumer behavior, increased disposable income, or broader market dynamics.
 - Out of the total sales volume of 10.67 million units across the Electronics, Accessories, and Office categories, Electronics accounted for 49.93% of total sales, making it the leading product category.
   
-# Recommendation
+# Recommendations
 - Further investigation is recommended to determine the key factors driving this performance, as the available dataset provides limited variables for comprehensive causal analysis.
 - The Electronics category demonstrates strong revenue-generation and profit potential, indicating that it should be prioritized within the company’s sales and growth strategy.
 
