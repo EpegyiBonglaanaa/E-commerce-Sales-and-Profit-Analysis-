@@ -58,12 +58,14 @@ ED.describe(include='all')
 ```
  <img width="837" height="415" alt="36" src="https://github.com/user-attachments/assets/20240818-4e9e-4222-b981-374079dc15b9" />
 
-
 ## Missing Values Checks
 ```python
 ED.isnull().sum()
+ED.notnull().sum()
 ```
- <img width="300" height="250" alt="Missing data" src="https://github.com/user-attachments/assets/9c58bd41-5105-4325-a7d1-7365bc6548c2" />
+|Missing Data|Non-null Data|
+ |<img width="300" height="250" alt="Missing data" src="https://github.com/user-attachments/assets/9c58bd41-5105-4325-a7d1-7365bc6548c2" />| <img width="110" height="100" alt="Non-null" src="https://github.com/user-attachments/assets/cdc049db-97de-40f3-b982-f967b5ff678e" />|
+
 
 # Sales Analysis and Profit Analysis
 Sale by Product name: 
