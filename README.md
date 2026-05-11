@@ -81,11 +81,10 @@ plt.show()
 
 
 # Sales Analysis and Profit Analysis
-Sale by Product name: 
-Sale by Product category: 
-Profit by Product name: 
-Profit by Product category: 
-Data Visualization
+- Sale by Product name
+- Sale by Product category
+- Profit by Product name
+- Profit by Product category 
 
 # Dashboard Report
 ### Dasboard:
