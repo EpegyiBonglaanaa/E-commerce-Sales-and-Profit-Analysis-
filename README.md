@@ -34,7 +34,7 @@ The data is complete, contains no missing values, and reflects realistic busines
 [Download for Free Here at Kaggle.com](https://www.kaggle.com/datasets/nalisha/e-commerce-sales-and-profit-analysis-dataset/data)
 
 # Structure 
-|| Column | Description | Non_null_count | Data type |
+|| Column | Description | Non_null_count | Data-type |
 |-|--------|-------------|----------------|-----------|
 |1| Order Date|	Date of ordering [Day/Monthly/Year]	|3500	|object|
 |2|Product Name	|Product ordered ['Printer', 'Mouse', 'Tablet', 'Camera', 'Headphones', 'Smartwatch', 'Monitor', 'Smartphone', 'Keyboard', 'Laptop']|	3500|	object|
@@ -65,9 +65,20 @@ ED.notnull().sum()
 ```
 |Missing Data|Non-null Data|
 |------------|-------------|
-|<img width="280" height="250" alt="Missing data" src="https://github.com/user-attachments/assets/9c58bd41-5105-4325-a7d1-7365bc6548c2" />| <img width="280" height="250" alt="Non-null" src="https://github.com/user-attachments/assets/cdc049db-97de-40f3-b982-f967b5ff678e" />|
+|<img width="380" height="350" alt="Missing data" src="https://github.com/user-attachments/assets/9c58bd41-5105-4325-a7d1-7365bc6548c2" />| <img width="380" height="350" alt="Non-null" src="https://github.com/user-attachments/assets/cdc049db-97de-40f3-b982-f967b5ff678e" />|
 
 The analysis indicates that the dataset contains no missing values.
+
+### Product Categories
+```python
+ED['Category'].value_counts()\
+ED['Category'].value_counts().plot(kind='pie')
+plt.show()
+```
+|ED['Category'].value_counts()|ED['Category'].value_counts().plot(kind='pie') plt.show()|
+|--|--|
+|<img width="400" height="360" alt="Screenshot 2026-05-11 004755" src="https://github.com/user-attachments/assets/576c3a00-6c6b-48cd-b282-e716379d702f" />|<img width="458" height="438" alt="Category 1" src="https://github.com/user-attachments/assets/a0a8bfda-ec2d-418e-811a-503f03309330" />|
+
 
 # Sales Analysis and Profit Analysis
 Sale by Product name: 
