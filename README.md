@@ -64,8 +64,10 @@ ED.isnull().sum()
 ED.notnull().sum()
 ```
 |Missing Data|Non-null Data|
- |<img width="300" height="250" alt="Missing data" src="https://github.com/user-attachments/assets/9c58bd41-5105-4325-a7d1-7365bc6548c2" />| <img width="110" height="100" alt="Non-null" src="https://github.com/user-attachments/assets/cdc049db-97de-40f3-b982-f967b5ff678e" />|
+|------------|-------------|
+|<img width="280" height="250" alt="Missing data" src="https://github.com/user-attachments/assets/9c58bd41-5105-4325-a7d1-7365bc6548c2" />| <img width="280" height="250" alt="Non-null" src="https://github.com/user-attachments/assets/cdc049db-97de-40f3-b982-f967b5ff678e" />|
 
+The analysis indicates that the dataset contains no missing values.
 
 # Sales Analysis and Profit Analysis
 Sale by Product name: 
@@ -75,10 +77,11 @@ Profit by Product category:
 Data Visualization
 
 # Dashboard Report
-Dasboard:
+### Dasboard:
 <img width="857" height="457" alt="Screenshot 2026-05-09 174927" src="https://github.com/user-attachments/assets/d2193eb0-44f0-4180-ae99-507d9e32bc1c" /> 
-Detailed Summary Tables: <img width="857" height="457" alt="Screenshot 2026-05-09 175007" src="https://github.com/user-attachments/assets/d1e22cc8-d7e4-4a9e-9112-a44e10c7d850" />
 
+### Detailed Summary Tables:
+<img width="857" height="457" alt="Screenshot 2026-05-09 175007" src="https://github.com/user-attachments/assets/d1e22cc8-d7e4-4a9e-9112-a44e10c7d850" />
 
 # Key Findings and Insights
 - Cameras recorded the highest product sales overall, with the South region contributing the largest share of camera sales distribution.
