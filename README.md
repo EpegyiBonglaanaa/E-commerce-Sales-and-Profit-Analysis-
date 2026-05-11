@@ -50,7 +50,7 @@ The data is complete, contains no missing values, and reflects realistic busines
 - Power BI – Creating report [Download for Free Here]( https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=2c328bbf2b3167101ab79c8d2ab46616)
 
 # Exploratory Data Analysis (EDA)
-Ed = "e-commerce-sales-and-profit-analysis-dataset"
+Ed = "ecommerce-sales-data.csv"
 ```Python
 ED.describe(include='all')
 ```
