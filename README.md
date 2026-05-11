@@ -87,7 +87,7 @@ plt.show()
 - Profit by Product category 
 
 # Dashboard Report
-### Dasboard:
+### Dashboard:
 <img width="857" height="457" alt="Screenshot 2026-05-09 174927" src="https://github.com/user-attachments/assets/d2193eb0-44f0-4180-ae99-507d9e32bc1c" /> 
 
 ### Detailed Summary Tables:
